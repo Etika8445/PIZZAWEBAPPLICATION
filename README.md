@@ -2,7 +2,7 @@
 
 Welcome to the Pizza Web Application! This project is a web-based application where users can search for pizzas, add them to their cart, and make payments using Razorpay. The application is built using HTML, CSS, JavaScript, and Bootstrap, with pizza data fetched from an API using async/await.
 
-![Pizza Web Application Logo](C:\Users\KAPIL CHAUDHARY\Pictures\Screenshots.png)
+![Pizza Web Application Logo](pizzawebsite.png)
 
 ## Table of Contents
 
