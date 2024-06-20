@@ -32,5 +32,13 @@ Make sure you have the following installed on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Etika8445/pizza-webapplication.git
+   https://github.com/Etika8445/PIZZAWEBAPPLICATION.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd pizza
+
+3. Open the file.html file in your web browser:
+   ```bash
+   open file.html
 
