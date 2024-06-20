@@ -45,12 +45,12 @@ Make sure you have the following installed on your local machine:
    ```bash
    open file.html
 
-   or simply drag and drop the index.html file into your web browser.
+   or simply drag and drop the file.html file into your web browser.
 
 ## Code Structure
 
-- `index.html`: The main HTML file.
-- `styles.css`: The CSS file for styling.
+- `file.html`: The main HTML file.
+- `main.css`: The CSS file for styling.
 - `scripts.js`: The JavaScript file containing the main functionality.
 - `bootstrap/`: Directory containing Bootstrap files.
 
