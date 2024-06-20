@@ -42,3 +42,19 @@ Make sure you have the following installed on your local machine:
    ```bash
    open file.html
 
+or simply drag and drop the index.html file into your web browser.
+
+## Usage
+
+- **Search for Pizza**: Use the search bar to find your favorite pizzas.
+- **Add to Cart**: Click on the 'Add to Cart' button to add pizzas to your shopping cart.
+- **View Cart**: Click on the cart icon to view the pizzas you have added to your cart.
+- **Make Payment**: Click on the 'Checkout' button and follow the instructions to make a payment using Razorpay.
+
+## Code Structure
+
+- `index.html`: The main HTML file.
+- `styles.css`: The CSS file for styling.
+- `scripts.js`: The JavaScript file containing the main functionality.
+- `bootstrap/`: Directory containing Bootstrap files.
+
